@@ -39,7 +39,7 @@ buttons.forEach(function(button){
             return i = 1;
             break;
         case "CLS":
-            entrada.value.length;
+            entrada.value -= 1;
             break;
             
         //   case "←": case "&#x2190;":
