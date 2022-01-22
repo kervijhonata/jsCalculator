@@ -13,4 +13,5 @@ Funcionalidades:
 - histórico de resultados;
 - limpeza do valor no campo numérico;
 - limpeza do ultimo caractere;
-    
+
+Confira a página aqui: https://kervijhonata.github.io/jsCalculator/
