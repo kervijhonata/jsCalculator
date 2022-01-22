@@ -29,18 +29,18 @@ buttons.forEach(function(button){
     button.addEventListener("click", function(){
         switch(button.innerHTML){
         default:
-            entrada.value += this.innerHTML;
-            break;
+          entrada.value += this.innerHTML;
+          break;
         case "=":
-            entrada.value !== "" ? calculate() : entrada.value = "ERR";
-            break;
+          entrada.value !== "" ? calculate() : entrada.value = "ERR";
+          break;
+        case "CE":
+          entrada.value = "";
+          return i = 1;
+          break;
         case "C":
-            entrada.value = "";
-            return i = 1;
-            break;
-        case "CLS":
-            entrada.value -= 1;
-            break;
+          entrada.value = entrada.value.slice(0, -1)
+          break;
             
         //   case "←": case "&#x2190;":
         case "🢨": case "&#129192;":

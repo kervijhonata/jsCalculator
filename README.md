@@ -6,5 +6,5 @@ Tecnologias utilizadas:
     - HTML5
 
 Funcionalidades:
-    - Realizar cálculos básicos de adição, subtração, divisão e multiplicação
+    - Realizar cálculos de: adição, subtração, divisão, multiplicação;
     
