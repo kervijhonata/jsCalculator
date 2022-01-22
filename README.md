@@ -16,3 +16,5 @@ Funcionalidades:
 - limpeza do ultimo caractere;
 
 Confira a página aqui: https://kervijhonata.github.io/jsCalculator/
+
+Irei continuar trabalhando no projeto para criar melhorias, tal como a entrada de valores à partir do teclado e a adição de novas funcionalidades;
