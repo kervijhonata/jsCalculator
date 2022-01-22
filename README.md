@@ -1,9 +1,6 @@
-### Descrição do Projeto:
+# JSCalculator
 
-Nome: Calculadora
-Tecnologias utilizadas:
-    - Javascript
-    - HTML5
+Uma calculadora construída em Javascript e HTML criada para realizar operações aritméticas básicas;
 
 Funcionalidades:
 - adição;
