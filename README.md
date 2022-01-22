@@ -1,6 +1,10 @@
 # JSCalculator
 
+![Landing Page](https://github.com/kervijhonata/jsCalculator/landing.png)
+
 Uma calculadora construída em Javascript e HTML criada para realizar operações aritméticas básicas;
+
+
 
 Funcionalidades:
 - adição;
